@@ -1,6 +1,6 @@
 # Atm-Simulator-System
-This project is like a Bank Management System
+This project is like a Bank Management System.
 I used
-Concept : SWING
-Database : MYSQL
-Language : JAVA CORE
+Concept as a SWING
+Database as a MYSQL
+Language as a JAVA CORE.
